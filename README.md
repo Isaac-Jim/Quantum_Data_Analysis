@@ -1,4 +1,5 @@
 
+
 # Quantium Data Analysis
 
 ## Overview
@@ -60,3 +61,10 @@ The analysis generates:
 - Actionable insights into sales performance.
 - Visualizations to support data-driven decision-making.
 
+<img width="1009" alt="Screenshot 2024-11-29 at 14 33 05" src="https://github.com/user-attachments/assets/c5e0adfb-a3af-440e-843b-7afb10c59905">
+<img width="996" alt="Screenshot 2024-11-29 at 14 31 01" src="https://github.com/user-attachments/assets/5b6002bb-3e34-4898-bf15-7030806128a9">
+<img width="991" alt="Screenshot 2024-11-29 at 14 40 24" src="https://github.com/user-attachments/assets/6d97cd76-4a50-4508-bad3-81c786b9cb66">
+<img width="850" alt="Screenshot 2024-11-29 at 14 39 21" src="https://github.com/user-attachments/assets/7ac72312-a175-4f6f-992f-eda5555c9b28">
+<img width="913" alt="Screenshot 2024-11-29 at 14 41 42" src="https://github.com/user-attachments/assets/e5836d04-477b-4b04-b104-d8afdaa91988">
+<img width="923" alt="Screenshot 2024-11-29 at 14 33 59" src="https://github.com/user-attachments/assets/ef6f136e-3fe2-46ad-b37a-fc1066a416a4">
+<img width="859" alt="Screenshot 2024-11-29 at 14 40 52" src="https://github.com/user-attachments/assets/418029cc-328d-4bbf-bb06-3abe469f81cc">
