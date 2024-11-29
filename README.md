@@ -60,7 +60,8 @@ The notebook includes:
 The analysis generates:
 - Actionable insights into sales performance.
 - Visualizations to support data-driven decision-making.
-
+- 
+<img width="880" alt="Screenshot 2024-11-29 at 15 11 42" src="https://github.com/user-attachments/assets/35c8fba2-db6f-4b21-99c2-380f5a554875">
 <img width="1009" alt="Screenshot 2024-11-29 at 14 33 05" src="https://github.com/user-attachments/assets/c5e0adfb-a3af-440e-843b-7afb10c59905">
 <img width="996" alt="Screenshot 2024-11-29 at 14 31 01" src="https://github.com/user-attachments/assets/5b6002bb-3e34-4898-bf15-7030806128a9">
 <img width="991" alt="Screenshot 2024-11-29 at 14 40 24" src="https://github.com/user-attachments/assets/6d97cd76-4a50-4508-bad3-81c786b9cb66">
